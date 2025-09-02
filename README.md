@@ -1,14 +1,4 @@
 ![Deployment Image](Deployment.png)
-# 🚗 Car Speed Detection Using YOLOv5 🏎️💨  
-
-## 📌 Project Overview  
-This project uses **YOLOv5** to detect vehicles and estimate their speed from a video feed. The detected speed is displayed in **bold yellow text**, making it easier to read. The processed video is saved for further analysis.  
-
-## ✨ Features  
-✅ **Real-time Object Detection** – Detects cars, buses, trucks, and motorcycles 🚘🚌🚛🏍️  
-✅ **Speed Estimation** – Calculates speed using pixel distance and time ⏳📏  
-✅ **Bold Yellow Speed Display** – Enhanced visibility for speed overlay 📢🟡  
-✅ **Video Output Storage** – Saves the processed video with detections 🎥💾  
 
 ## 🛠️ Installation  
 Make sure you have Python installed, then install dependencies:  
